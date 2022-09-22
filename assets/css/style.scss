@@ -3,8 +3,7 @@
 
 @import "{{ site.theme }}";
 
-$body-background: #FADADD;
-$body-foreground: #F98A95;
-$header: #F3DBFA;
-$blockquote-color: $silver-chalice !default;
-$blockquote-border: $dove-grey !default;
+body {
+  background: #FADADD;
+  color: #F98A95;
+}
