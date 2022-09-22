@@ -17,10 +17,13 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 
 ![douthinkilookcute](assets/stuff/F73BA9D8-4831-4521-B8B9-960FD0C252E6_1_105_c.jpeg)
+![douthinkilookcute](assets/stuff/CE536DBE-1684-4C12-9443-4199EFB03385.jpeg)
+![douthinkilookcute](assets/stuff/EDF75EEF-FBA7-4440-9DE1-E87DE4B2952F.jpeg)
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# graduate students need a union
+
+
 
 ## Header 2
 
@@ -29,21 +32,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
@@ -121,11 +109,3 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
