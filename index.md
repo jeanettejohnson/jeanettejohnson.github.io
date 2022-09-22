@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+# About Me
+Thank you for coming to my website. 
+
+I am a 3rd year PhD candidate in [Dr. Elana Fertig](https://fertiglab.com/) and [Dr. Genevieve Stein O'Brien](https://neuroscience.jhu.edu/research/faculty/163)'s labs in the Oncology/Biostatistcs and Neuroscience departments at Johns Hopkins. I am absolutely in love with my lab group, which I joined in Summer 2021. 
+
+I'm interested in studying biology using math and computation. I'd study biology any way, but I picked up some skills as a programmer in college and just happened to graduate at a time when there's a need for a few more biologists who know how to program. I will keep this site updated throughout graduate school and hopefully share some cool stuff! 
+
+My career goal is to keep working in research, and I will pursue a postdoc after graduation in 2025.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
