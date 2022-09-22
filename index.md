@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-![douthinkilookcute](../assets/stuff/F73BA9D8-4831-4521-B8B9-960FD0C252E6_1_105_c.jpeg)
+![douthinkilookcute](https://github.com/jeanettejohnson/jeanettejohnson.github.io/blob/main/assets/stuff/F73BA9D8-4831-4521-B8B9-960FD0C252E6_1_105_c.jpeg)
 
 # Header 1
 
