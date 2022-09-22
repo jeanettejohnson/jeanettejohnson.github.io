@@ -1,5 +1,8 @@
 ---
 ---
 
-@import "jekyll-theme-hacker";
-$body-background: #FADADD; 
+@import "{{ site.theme }}";
+
+body {
+  background-color: #FADADD;
+}
