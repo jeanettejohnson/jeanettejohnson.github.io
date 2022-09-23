@@ -14,12 +14,10 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [CV](./cv.html).
 
-
-
-![douthinkilookcute](assets/stuff/F73BA9D8-4831-4521-B8B9-960FD0C252E6_1_105_c.jpeg)
-![douthinkilookcute](assets/stuff/CE536DBE-1684-4C12-9443-4199EFB03385.jpeg)
-![douthinkilookcute](assets/stuff/EDF75EEF-FBA7-4440-9DE1-E87DE4B2952F.jpeg)
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](assets/stuff/CE536DBE-1684-4C12-9443-4199EFB03385.jpeg)  |  ![](assets/stuff/F73BA9D8-4831-4521-B8B9-960FD0C252E6_1_105_c.jpeg) 
+![](assets/stuff/B74108D7-6478-436A-AE87-D7670F2FB836.jpeg)  | ![]()
 
 # graduate students need a union
 
