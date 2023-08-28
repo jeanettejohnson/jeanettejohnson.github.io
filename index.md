@@ -4,11 +4,11 @@ layout: default
 # About Me
 Thank you for coming to my website. 
 
-I am a 4th year PhD candidate in [Dr. Elana Fertig](https://fertiglab.com/) and [Dr. Genevieve Stein O'Brien](http://www.steinobrienlab.org/)'s labs in the Oncology/Biostatistcs and Neuroscience departments at Johns Hopkins. I am absolutely in love with my lab group, which I joined in Summer 2021. 
+I am a 4th year Immunology PhD candidate in [Dr. Elana Fertig](https://fertiglab.com/) and [Dr. Genevieve Stein O'Brien](http://www.steinobrienlab.org/)'s labs in the Oncology/Biostatistcs and Neuroscience departments at Johns Hopkins. I am also part of the Convergence Institute. I am absolutely in love with my lab group, which I joined in Summer 2021. 
 
-I'm interested in studying biology using math and computation. I'd study biology any way, but I picked up some skills as a programmer in college and just happened to graduate at a time when there's a need for a few more biologists who know how to program. I will keep this site updated throughout graduate school and hopefully share some cool stuff! 
+I'm interested in studying the human immune system in cancer using math and computation. Currently I am working on genomics-defined, agent-based models of pancreatic precancer.
 
-My career goal is to keep working in research, and I will pursue a postdoc after graduation in 2025.
+My career goal is to keep working in research, and I will pursue a postdoc after graduation.
 
 [CV](./cv.html).
 
