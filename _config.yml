@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeanetteaij_
 github_username:  jeanettejohnson
 show_downloads: true
-logo: assets/stuff/F73BA9D8-4831-4521-B8B9-960FD0C252E6_1_105_c.jpeg
+# logo: assets/stuff/F73BA9D8-4831-4521-B8B9-960FD0C252E6_1_105_c.jpeg
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
