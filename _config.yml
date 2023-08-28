@@ -22,7 +22,7 @@ title: Jeanette Johnson
 email: johnsonje197@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   PhD candidate at Johns Hopkins working on building math models of the immune system
-baseurl: "/mywebsite" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeanetteaij_
 github_username:  jeanettejohnson
