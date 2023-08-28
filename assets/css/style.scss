@@ -1,33 +1,37 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-minimal";
+// ---
+// ---
 
-body {
-  background: #d6369b;
-  color: #dddcfa;
-}
+// @import "{{ site.theme }}";
 
-header {
-  border-bottom: #80b418;
-}
+// body {
+//   background: #d6369b;
+//   color: #dddcfa;
+// }
 
-header h1 {
-  color:#d0f090;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-}
+// header {
+//   border-bottom: #80b418;
+// }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #d0f090;
-  letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-}
+// header h1 {
+//   color:#d0f090;
+//   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+//                0 0 5px rgba(181, 232, 83, 0.1),
+//                0 0 10px rgba(181, 232, 83, 0.1);
+// }
 
-.btn {
-  color: rgba(251, 131, 199, 0.8);
-  background: -webkit-linear-gradient(top, rgba(251, 131, 199, 0.3), rgba(196, 80, 231, 0.3));
-}
+// h1, h2, h3, h4, h5, h6 {
+//   color: #d0f090;
+//   letter-spacing: -0.03em;
+//   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+//                0 0 5px rgba(181, 232, 83, 0.1),
+//                0 0 10px rgba(181, 232, 83, 0.1);
+// }
+
+// .btn {
+//   color: rgba(251, 131, 199, 0.8);
+//   background: -webkit-linear-gradient(top, rgba(251, 131, 199, 0.3), rgba(196, 80, 231, 0.3));
+// }
