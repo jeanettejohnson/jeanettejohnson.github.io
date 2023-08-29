@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeanetteaij_
 github_username:  jeanettejohnson
-show_downloads: true
+show_downloads: false
 # logo: assets/stuff/F73BA9D8-4831-4521-B8B9-960FD0C252E6_1_105_c.jpeg
 
 # Build settings
