@@ -2,6 +2,17 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+@import "fonts";
+@import "rouge-github";
+
+body {
+  background-color: #d4e0fc;
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#727272;
+  font-weight:400;
+}
 // ---
 // ---
 
